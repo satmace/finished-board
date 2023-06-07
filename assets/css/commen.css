@@ -1,0 +1,49 @@
+@font-face {
+    font-family: Roboto-Bold;
+    src: url(assets\fonts\font-popins\Roboto-Bold.ttf);
+    font-weight: 400;
+ }
+ 
+@font-face {
+    font-family: Roboto-Regular;
+    src: url(assets\fonts\font-popins\Roboto-Regular.ttf);
+    font-weight: 400;
+ }
+@font-face {
+    font-family: Roboto-Medium;
+    src: url(assets\fonts\font-popins\Roboto-Medium.ttf);
+    font-weight: 400;
+ }
+@font-face {
+    font-family: Roboto-Bold;
+    src: url(assets\fonts\font-popins\Roboto-Bold.ttf);
+    font-weight: 400;
+ }
+.font-b{
+    font-family: Roboto-Bold;
+ } 
+ .font-r{
+    font-family: Roboto-Regular;
+ }
+ .font-m{
+    font-family: Roboto-Medium;
+ }
+ .font-sb{
+    font-family: Roboto-Bold;
+ }
+.font-open{
+    font-family: "Roboto", "sans-serif;";
+}
+.f-s16{
+    font-size: 16px;
+}
+
+ .f-s24{
+    font-size: 24px;
+ }
+ .f-s14{
+    font-size: 14px;
+ }
+ .f-s12{
+    font-size: 12px;
+ }
